@@ -37,7 +37,7 @@ Next, `CD` to the project directory and install all of the dependencies:
 
 cd iblood
 
-then cd iBlood
+cd iBlood
 
 # Install all of the dependencies
 
