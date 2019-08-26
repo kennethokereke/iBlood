@@ -35,7 +35,9 @@ Next, `CD` to the project directory and install all of the dependencies:
 
 # Go to the project directory
 
-cd blooddonation
+cd iblood
+
+then cd iBlood
 
 # Install all of the dependencies
 
