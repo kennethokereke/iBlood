@@ -3,7 +3,7 @@ A Mobile application that enables patients either request and or donate blood ef
 
 | Project | Medium | Screens |
 | ------ | ------ | :------: |
-| [Blood Donation](https://dribbble.com/shots/7040248-blooddonation/attachments/40572?mode=media) |  | 2 | [Medium]() 
+| [Blood Donation](https://dribbble.com/shots/7040248-blooddonation/attachments/40572?mode=media) | [Medium](https://medium.com/@kennethokerekeUIUX/case-study-blood-donation-app-ux-design-for-medical-app-36a713f15d19)   | 2 | 
 
 
 ![alt text](https://github.com/kennethokereke/iBlood/blob/master/iBlood/assets/home.gif)
